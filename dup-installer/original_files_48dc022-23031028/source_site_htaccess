@@ -1,0 +1,23 @@
+## EXPIRES CACHING ##
+<IfModule pagespeed_module>
+    ModPagespeed off
+</IfModule>
+# This file was updated by Duplicator on 2024-08-13 02:07:25.
+# See the original_files_ folder for the original source_site_htaccess file.
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /ngocdiep/
+RewriteRule ^index\.php$ - [L]
+RewriteRule ^en/wp-login.php /ngocdiep/wp-login.php [QSA,L]
+RewriteRule ^vi/wp-login.php /ngocdiep/wp-login.php [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /ngocdiep/index.php [L]
+</IfModule>
+
+# END WordPress

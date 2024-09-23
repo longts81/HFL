@@ -1,0 +1,1017 @@
+{
+    "dup_type": "lite",
+    "created": "2024-09-23 03:10:28",
+    "version_dup": "1.5.10.2",
+    "version_wp": "6.6.2",
+    "version_db": "5.7.31",
+    "version_php": "7.4.30",
+    "version_os": "Linux",
+    "blogname": "Ngoc Diep website",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$ENFh42SjM8UcCuWwopCMAuiafPHzs1gzYQ83NIjeuEp4t6ZnQc.ry",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "demo7.mikotech.com.vn",
+            "path": "\/ngocdiep\/",
+            "blogname": "Ngoc Diep website",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "admin",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep",
+            "fullSiteUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "demo7_ngocdiep",
+        "tablesBaseCount": 80,
+        "tablesFinalCount": 80,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 10374,
+        "tablesSizeOnDisk": 20807680,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_icl_background_task": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_icl_content_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_icl_core_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_icl_flags": {
+                "inaccurateRows": 65,
+                "insertedRows": 65,
+                "size": 32768
+            },
+            "wp_icl_languages": {
+                "inaccurateRows": 65,
+                "insertedRows": 65,
+                "size": 49152
+            },
+            "wp_icl_languages_translations": {
+                "inaccurateRows": 4225,
+                "insertedRows": 4225,
+                "size": 393216
+            },
+            "wp_icl_locale_map": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 16384
+            },
+            "wp_icl_message_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_icl_mo_files_domains": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_icl_node": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_icl_reminders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_icl_strings": {
+                "inaccurateRows": 1436,
+                "insertedRows": 1455,
+                "size": 901120
+            },
+            "wp_icl_string_batches": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_icl_string_packages": {
+                "inaccurateRows": 5,
+                "insertedRows": 4,
+                "size": 16384
+            },
+            "wp_icl_string_positions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_icl_string_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_icl_string_translations": {
+                "inaccurateRows": 59,
+                "insertedRows": 60,
+                "size": 98304
+            },
+            "wp_icl_translate": {
+                "inaccurateRows": 251,
+                "insertedRows": 237,
+                "size": 442368
+            },
+            "wp_icl_translate_job": {
+                "inaccurateRows": 18,
+                "insertedRows": 16,
+                "size": 32768
+            },
+            "wp_icl_translations": {
+                "inaccurateRows": 369,
+                "insertedRows": 399,
+                "size": 131072
+            },
+            "wp_icl_translation_batches": {
+                "inaccurateRows": 0,
+                "insertedRows": 7,
+                "size": 16384
+            },
+            "wp_icl_translation_downloads": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_icl_translation_status": {
+                "inaccurateRows": 137,
+                "insertedRows": 153,
+                "size": 327680
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 512,
+                "insertedRows": 524,
+                "size": 2293760
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 1502,
+                "insertedRows": 1464,
+                "size": 1703936
+            },
+            "wp_posts": {
+                "inaccurateRows": 928,
+                "insertedRows": 888,
+                "size": 11091968
+            },
+            "wp_social_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 38,
+                "insertedRows": 38,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 104,
+                "insertedRows": 96,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 38,
+                "insertedRows": 38,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 41,
+                "insertedRows": 50,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 61,
+                "insertedRows": 61,
+                "size": 65536
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 88,
+                "insertedRows": 88,
+                "size": 65536
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_yoast_indexable": {
+                "inaccurateRows": 70,
+                "insertedRows": 64,
+                "size": 180224
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "inaccurateRows": 65,
+                "insertedRows": 61,
+                "size": 65536
+            },
+            "wp_yoast_migrations": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 32768
+            },
+            "wp_yoast_primary_term": {
+                "inaccurateRows": 23,
+                "insertedRows": 22,
+                "size": 49152
+            },
+            "wp_yoast_seo_links": {
+                "inaccurateRows": 217,
+                "insertedRows": 234,
+                "size": 98304
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MySQL",
+        "version": "5.7.31",
+        "versionComment": "MySQL Community Server (GPL)",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 3,
+        "packageName": "20240813_ngocdiep",
+        "packageHash": "48dc022-23031028",
+        "secondaryHash": "615ed70-23031028"
+    },
+    "fileInfo": {
+        "dirCount": 2394,
+        "fileCount": 22753,
+        "size": 659188980
+    },
+    "wpInfo": {
+        "version": "6.6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+        "targetPaths": [
+            "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "admin",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "put your unique phrase here",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/ngocdiep\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/ngocdiep\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/ngocdiep\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/ngocdiep\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/themes\/flatsome",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/themes\/flatsome-child",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep",
+                "homeUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep",
+                "loginUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-login.php",
+                "contentUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content",
+                "uploadBaseUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/demo7.mikotech.com.vn\/ngocdiep\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "abs": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "wpconfig": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "wpcontent": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content",
+                    "uploads": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/uploads",
+                    "plugins": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/plugins",
+                    "muplugins": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/mu-plugins",
+                    "themes": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "abs": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "wpconfig": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep",
+                    "wpcontent": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content",
+                    "uploads": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/uploads",
+                    "plugins": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/plugins",
+                    "muplugins": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/mu-plugins",
+                    "themes": "\/home\/demo7\/domains\/demo7.mikotech.com.vn\/public_html\/ngocdiep\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "tinymce-advanced\/tinymce-advanced.php": {
+                "slug": "tinymce-advanced\/tinymce-advanced.php",
+                "name": "Advanced Editor Tools",
+                "version": "5.9.2",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/tinymce-advanced\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com",
+                "description": "Extends and enhances the block editor (Gutenberg) and the classic editor (TinyMCE).",
+                "title": "Advanced Editor Tools",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "categories-images\/categories-images.php": {
+                "slug": "categories-images\/categories-images.php",
+                "name": "Categories Images",
+                "version": "3.1.0",
+                "pluginURI": "http:\/\/zahlan.net\/blog\/categories-images\/",
+                "author": "Muhammad El Zahlan",
+                "authorURI": "http:\/\/zahlan.net\/",
+                "description": "Categories Images Plugin allow you to add an image to category or any custom term.",
+                "title": "Categories Images",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "taxonomy-terms-order\/taxonomy-terms-order.php": {
+                "slug": "taxonomy-terms-order\/taxonomy-terms-order.php",
+                "name": "Category Order and Taxonomy Terms Order",
+                "version": "1.8.2",
+                "pluginURI": "http:\/\/www.nsp-code.com",
+                "author": "Nsp-Code",
+                "authorURI": "https:\/\/www.nsp-code.com",
+                "description": "Order Categories and all custom taxonomies terms (hierarchically) and child terms using a Drag and Drop Sortable javascript capability.",
+                "title": "Category Order and Taxonomy Terms Order",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-editor\/classic-editor.php": {
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-widgets\/classic-widgets.php": {
+                "slug": "classic-widgets\/classic-widgets.php",
+                "name": "Classic Widgets",
+                "version": "0.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-widgets\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-widgets\/",
+                "description": "Enables the classic widgets settings screens in Appearance - Widgets and the Customizer. Disables the block editor from managing widgets.",
+                "title": "Classic Widgets",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.9.8",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "cf7-post-fields\/cf7-post-fields.php": {
+                "slug": "cf7-post-fields\/cf7-post-fields.php",
+                "name": "Contact Form 7 - Post Fields",
+                "version": "2.5.8",
+                "pluginURI": "",
+                "author": "Markus Wiesenhofer",
+                "authorURI": "mailto:markusfroehlich01@gmail.com",
+                "description": "Provides a dynamic post select, radio and checkbox field to your CF7 forms.",
+                "title": "Contact Form 7 - Post Fields",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7-multilingual\/plugin.php": {
+                "slug": "contact-form-7-multilingual\/plugin.php",
+                "name": "Contact Form 7 Multilingual",
+                "version": "1.3.1",
+                "pluginURI": "",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Make forms from Contact Form 7 translatable with WPML | <a href=\"https:\/\/wpml.org\/documentation\/plugins-compatibility\/using-contact-form-7-with-wpml\/\">Documentation<\/a>",
+                "title": "Contact Form 7 Multilingual",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.10.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "olympus-google-fonts\/olympus-google-fonts.php": {
+                "slug": "olympus-google-fonts\/olympus-google-fonts.php",
+                "name": "Fonts Plugin | Use Google Fonts, Adobe Fonts or Upload Fonts",
+                "version": "3.7.9",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/olympus-google-fonts\/",
+                "author": "Fonts Plugin",
+                "authorURI": "https:\/\/fontsplugin.com\/?utm_source=wporg&utm_medium=readme&utm_campaign=description",
+                "description": "The easiest to customize fonts in WordPress. Optimized for Speed. 1000+ font choices. Supports Google Fonts, Adobe Fonts and Upload Fonts.",
+                "title": "Fonts Plugin | Use Google Fonts, Adobe Fonts or Upload Fonts",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "otgs-installer-plugin\/otgs-installer.php": {
+                "slug": "otgs-installer-plugin\/otgs-installer.php",
+                "name": "OTGS Installer",
+                "version": "3.0.3",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Lightweight Installer plugin that allows to install OTGS plugins",
+                "title": "OTGS Installer",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "post-types-order\/post-types-order.php": {
+                "slug": "post-types-order\/post-types-order.php",
+                "name": "Post Types Order",
+                "version": "2.2.6",
+                "pluginURI": "http:\/\/www.nsp-code.com",
+                "author": "Nsp Code",
+                "authorURI": "http:\/\/www.nsp-code.com",
+                "description": "Posts Order and Post Types Objects Order using a Drag and Drop Sortable javascript capability",
+                "title": "Post Types Order",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-htaccess-editor\/wp-htaccess-editor.php": {
+                "slug": "wp-htaccess-editor\/wp-htaccess-editor.php",
+                "name": "WP .htaccess Editor",
+                "version": "1.72",
+                "pluginURI": "https:\/\/wphtaccess.com\/",
+                "author": "WebFactory Ltd",
+                "authorURI": "https:\/\/www.webfactoryltd.com\/",
+                "description": "Safe and easy way to edit the .htaccess file directly from WP admin without using FTP.",
+                "title": "WP .htaccess Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "sitepress-multilingual-cms\/sitepress.php": {
+                "slug": "sitepress-multilingual-cms\/sitepress.php",
+                "name": "WPML Multilingual CMS",
+                "version": "4.6.12",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "WPML Multilingual CMS | <a href=\"https:\/\/wpml.org\">Documentation<\/a> | <a href=\"https:\/\/wpml.org\/version\/wpml-4-6-12\/\">WPML 4.6.12 release notes<\/a>",
+                "title": "WPML Multilingual CMS",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-seo-multilingual\/plugin.php": {
+                "slug": "wp-seo-multilingual\/plugin.php",
+                "name": "WPML SEO",
+                "version": "2.1.0",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Multilingual support for popular SEO plugins",
+                "title": "WPML SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpml-string-translation\/plugin.php": {
+                "slug": "wpml-string-translation\/plugin.php",
+                "name": "WPML String Translation",
+                "version": "3.2.14",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Adds theme and plugins localization capabilities to WPML | <a href=\"https:\/\/wpml.org\">Documentation<\/a> | <a href=\"https:\/\/wpml.org\/version\/string-translation-3-2-14\/\">WPML String Translation 3.2.14 release notes<\/a>",
+                "title": "WPML String Translation",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "23.2",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "flatsome-child": {
+                "slug": "flatsome-child",
+                "themeName": "Flatsome Child",
+                "version": "3.0",
+                "themeURI": "",
+                "parentTheme": "flatsome",
+                "template": "flatsome",
+                "stylesheet": "flatsome-child",
+                "description": "This is a child theme for Flatsome Theme",
+                "author": "UX Themes",
+                "authorURI": "",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "flatsome": {
+                "slug": "flatsome",
+                "themeName": "Flatsome",
+                "version": "3.18.7",
+                "themeURI": "http:\/\/flatsome.uxthemes.com",
+                "parentTheme": false,
+                "template": "flatsome",
+                "stylesheet": "flatsome",
+                "description": "Multi-Purpose Responsive WooCommerce Theme",
+                "author": "UX-Themes",
+                "authorURI": "https:\/\/uxthemes.com",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Ngoc Diep website"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20240813_ngocdiep_48dc0223d191db443385_20240923031028_installer-backup.php",
+    "package_name": "20240813_ngocdiep_48dc0223d191db443385_20240923031028_archive.zip",
+    "package_hash": "48dc022-23031028",
+    "package_notes": ""
+}
